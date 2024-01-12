@@ -18,3 +18,7 @@ Now its time to Initialise git :)
 > Commit all the files with appropriate message
     git commit -m '<your comments>'
 
+> Check status and log
+    git log
+
+Well Done. Great job :)

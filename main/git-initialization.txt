@@ -21,4 +21,4 @@ Now its time to Initialise git :)
 > Check status and log
     git log
 
-Well Done. Great job :)
+Well Done. Good job :)

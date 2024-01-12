@@ -1,0 +1,7 @@
+Local directory >>
+
+My first file for understanding git.
+
+> created local directory.
+> added file (this file).
+

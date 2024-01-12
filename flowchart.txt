@@ -1,0 +1,34 @@
+> Make directory
+> Add files
+
+> Initialise git
+> Check status
+> Add files (stack)
+> Commit files
+> Log 
+
+> Add more files
+> Add, Commit and log
+
+>> GITHUB > create repo
+
+> remote (Upload the files on github server)
+> push the files to remote (github repo)
+
+> Add files in directory
+> Add to stack (git envirment)
+> Commit (push in local envirment)
+> Push upload or update in github repo
+
+> create secret file and ignore for git
+
+> create a branch for new feature
+> merge the feature to the main branch
+
+> clone the repo and play around
+
+> fork the repo from another account
+> impliment new feature
+> sent the pull request 
+> approve the implimented feature from main repo
+

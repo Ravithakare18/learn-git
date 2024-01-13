@@ -1,8 +1,0 @@
-Revise git Initialization
-
-> create file
-> add content
-> check status
-> add to stage (untracked and modified files)
-> commit
-> log
